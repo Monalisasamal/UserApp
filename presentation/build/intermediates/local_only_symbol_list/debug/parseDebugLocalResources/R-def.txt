@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+dimen box_65dp
+dimen corner_radius_10dp
+dimen corner_radius_5dp
+dimen height_100dp
+dimen height_15dp
+dimen height_16dp
+dimen height_200dp
+dimen margin_5dp
+dimen padding_10dp
+dimen padding_5dp
+dimen padding_8dp
+dimen size_24dp
+dimen size_25dp
+dimen size_32dp
+drawable user
+string back
+string content_des
+string details
+string header
+string no_user
+string something_went_wrong

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.presentation.UserListViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-07-09T07:00:24" hostname="Biswajits-MacBook-Air.local" time="0.786">
+  <properties/>
+  <testcase name="fetchUserList emit user list successfully" classname="com.sample.presentation.UserListViewModelTest" time="0.779"/>
+  <testcase name="fetchUserList emit error when use case fail" classname="com.sample.presentation.UserListViewModelTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/biswajitsamal/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.5/58f9507f5f28d1d3e7adfb4ec2fe37c29d332c9b/byte-buddy-agent-1.17.5.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

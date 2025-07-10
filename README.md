@@ -48,7 +48,7 @@ The app follows a **Clean architecture pattern** with the following main modules
   Handles the UI using Jetpack Compose to render views and manage user interactions.
 - 
 ---
-## Features
+## Technical Characteristics
 
 - **Jetpack Compose**: Used for modern and declarative UI development.
 - **Retrofit**: For seamless API integration.

@@ -49,9 +49,7 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation(project(":core"))
     implementation(project(":domain"))
-    // Retrofit Networking
-    implementation(libs.retrofit)
-    implementation(libs.retrofit.gson)
+
     //coroutine
     implementation(libs.coroutines.android)
     //hilt

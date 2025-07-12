@@ -64,15 +64,10 @@ dependencies {
     //navigation
     implementation(libs.androidx.navigation)
 
-    implementation(libs.lifecycle.viewmodel.compose)
     implementation(libs.androidx.lifecycle.runtime.ktx)
 
     //coroutine
     implementation(libs.coroutines.android)
-
-    //retrofit
-    implementation(libs.retrofit)
-    implementation(libs.retrofit.gson)
 
     //coil
     implementation(libs.coil.compose)

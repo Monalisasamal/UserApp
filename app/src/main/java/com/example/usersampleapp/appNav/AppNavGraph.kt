@@ -5,17 +5,12 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.app.common.NavigationObjects
-import com.sample.presentation.view.SplashScreen
 import com.sample.presentation.view.UserListScreen
 import com.sample.presentation.view.UserDetailScreen
 
 @Composable
 fun AppNavGraph(navController: NavHostController) {
-    NavHost(navController = navController, startDestination = NavigationObjects.splash.nav) {
-        //navigation to SplashScreen
-        composable(NavigationObjects.splash.nav) {
-            SplashScreen(navController)
-        }
+    NavHost(navController = navController, startDestination = NavigationObjects.UserList.nav) {
         //navigation to UserListScreen
         composable(NavigationObjects.UserList.nav) {
             UserListScreen(navController)

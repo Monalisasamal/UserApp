@@ -2,11 +2,10 @@
 
 This project build with Kotlin Clean Architecture and latest jetpack libraries, 
 dependency injection with Hilt, and data handing using Kotlin Retrofit, Coroutines and Flow
-project has three screen **Splash Screen**, **User list Screen**, **User Details Screen**
+project has three screen  **User list Screen**, **User Details Screen**
 
 ## Screenshots
 
-<img width="1080" height="2400" alt="Screenshot_20250710_162539" src="https://github.com/user-attachments/assets/95d696ae-f66a-4989-975e-7fb1320dcad3" />
 <img width="1080" height="2400" alt="Screenshot_20250710_162836" src="https://github.com/user-attachments/assets/f086908d-bc0d-493e-9bc0-7d154f33845f" />
 <img width="1080" height="2400" alt="Screenshot_20250710_162852" src="https://github.com/user-attachments/assets/1094a1da-47bb-42a1-b326-99d8936deb4e" />
 

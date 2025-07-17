@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_internet">Please Check your internet connection</string>
+    <string name="error_400">Bad request. Please try again</string>
+    <string name="error_401">Unauthorized. Please log in again</string>
+    <string name="error_404">User not found</string>
+    <string name="error_500">Server error, Please try later</string>
+    <string name="unexcepted_error">An unexcepted error occurred</string>
+</resources>

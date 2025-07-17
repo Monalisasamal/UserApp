@@ -26,9 +26,4 @@ object AppModule {
             .create(UserApiService::class.java)
     }
 
-    @Provides
-    fun provideGetUserListUseCase(repository: UserRepository): GetUserListUseCase {
-        return GetUserListUseCase(repository)
-    }
-
 }
